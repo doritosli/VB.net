@@ -1,0 +1,9 @@
+C:\Users\user\AppData\Local\Temporary Projects\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\user\AppData\Local\Temporary Projects\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\user\AppData\Local\Temporary Projects\ClassLibrary1\bin\Release\ClassLibrary1.xml
+C:\Users\user\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\user\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.xml
+C:\Users\user\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.pdb

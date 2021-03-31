@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\上傳考勤\打卡測試\bin\Debug\上傳考勤.exe
+C:\Users\user\Desktop\上傳考勤\打卡測試\bin\Debug\上傳考勤.pdb
+C:\Users\user\Desktop\上傳考勤\打卡測試\bin\Debug\上傳考勤.xml
+C:\Users\user\Desktop\上傳考勤\打卡測試\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\上傳考勤\打卡測試\obj\Debug\上傳考勤.Resources.resources
+C:\Users\user\Desktop\上傳考勤\打卡測試\obj\Debug\上傳考勤.上傳考勤.resources
+C:\Users\user\Desktop\上傳考勤\打卡測試\obj\Debug\上傳考勤.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\上傳考勤\打卡測試\obj\Debug\上傳考勤.exe
+C:\Users\user\Desktop\上傳考勤\打卡測試\obj\Debug\上傳考勤.xml
+C:\Users\user\Desktop\上傳考勤\打卡測試\obj\Debug\上傳考勤.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Debug\打卡測試.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\打卡測試\打卡測試\bin\Debug\打卡測試.pdb
+C:\Users\user\Desktop\打卡測試\打卡測試\bin\Debug\打卡測試.xml
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Debug\打卡測試.xml
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Debug\打卡測試.pdb
+C:\Users\user\Desktop\打卡測試\打卡測試\bin\Debug\打卡測試.exe
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Debug\打卡測試.exe
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Debug\打卡測試.Resources.resources
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Debug\打卡測試.測試打卡.resources

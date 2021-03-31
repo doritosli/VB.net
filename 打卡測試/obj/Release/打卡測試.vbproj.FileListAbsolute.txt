@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\打卡測試\打卡測試\bin\Release\打卡測試.dll
+C:\Users\user\Desktop\打卡測試\打卡測試\bin\Release\打卡測試.pdb
+C:\Users\user\Desktop\打卡測試\打卡測試\bin\Release\打卡測試.xml
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Release\ClassLibrary1.Resources.resources
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Release\ClassLibrary1.測試打卡.resources
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Release\打卡測試.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Release\打卡測試.dll
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Release\打卡測試.xml
+C:\Users\user\Desktop\打卡測試\打卡測試\obj\Release\打卡測試.pdb

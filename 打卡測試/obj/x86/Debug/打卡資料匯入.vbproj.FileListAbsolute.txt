@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\打卡小程式\打卡測試\obj\x86\Debug\打卡測試.exe
+C:\Users\user\Desktop\打卡小程式\打卡測試\obj\x86\Debug\打卡測試.xml
+C:\Users\user\Desktop\打卡小程式\打卡測試\obj\x86\Debug\打卡測試.pdb
